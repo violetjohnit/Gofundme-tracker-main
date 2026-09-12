@@ -23,6 +23,7 @@ HOW DOES IT WORK?
 3. Sets a target
 4. Receives contributions from supporters
 
-Small Trader connects 2 PERSONALITY 
+Small Trader connects 2 PERSONALITIES:
 1. People who need business funding
-2. People willing to help
+2. People willing to help 
+
